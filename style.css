@@ -1,0 +1,15 @@
+a {
+    font-family: 'MedievalSharp', cursive;
+}
+
+h1 {
+    font-family: 'MedievalSharp', cursive;
+}
+
+.bg-hero-image{
+    background-image: url('napoleon.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 21%;
+}

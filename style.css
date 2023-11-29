@@ -4,6 +4,8 @@ a {
 
 h1 {
     font-family: 'MedievalSharp', cursive;
+    font-size: 275%;
+    text-shadow: 0 0px 5px rgb(255, 255, 255);
 }
 
 .bg-hero-image{
@@ -18,4 +20,12 @@ body {
     background-image: url(napbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.kidnapoleon {
+    height: 60%;
+}
+
+p {
+    font-family: 'MedievalSharp', cursive;
 }

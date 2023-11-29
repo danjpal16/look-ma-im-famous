@@ -22,10 +22,18 @@ body {
     background-size: cover;
 }
 
-.kidnapoleon {
-    height: 60%;
-}
+
 
 p {
     font-family: 'MedievalSharp', cursive;
+    font-size: 175%;
+}
+
+.early {
+    font-family: 'MedievalSharp', cursive;
+    font-size: 100%;
+}
+
+.size {
+    height: 400px;
 }

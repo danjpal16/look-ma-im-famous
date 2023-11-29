@@ -13,3 +13,9 @@ h1 {
     background-size: cover;
     padding: 21%;
 }
+
+body {
+    background-image: url(napbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

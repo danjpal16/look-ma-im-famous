@@ -35,5 +35,14 @@ p {
 }
 
 .size {
-    height: 400px;
+    height: 500px;
+    font-size: 25px;
+}
+
+.size2 {
+    font-size: 13px;
+}
+
+.end {
+    font-family: 'MedievalSharp', cursive;
 }

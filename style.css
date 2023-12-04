@@ -46,3 +46,16 @@ p {
 .end {
     font-family: 'MedievalSharp', cursive;
 }
+
+.accomp {
+    height: 300px;
+}
+
+.size3 {
+    font-size: 150%;
+    height: 500px;
+}
+
+.contri {
+    height: 500px;
+}

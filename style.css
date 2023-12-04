@@ -40,7 +40,7 @@ p {
 }
 
 .size2 {
-    font-size: 13px;
+    font-size: 75%;
 }
 
 .end {
@@ -58,4 +58,12 @@ p {
 
 .contri {
     height: 500px;
+}
+
+.accomplish {
+    height: 65%;
+}
+
+.lmsize {
+    font-size: 150%;
 }
